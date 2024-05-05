@@ -1,0 +1,39 @@
+{
+    "logo" : {
+        "source": "images/skills/unity3d.png",
+        "height" : 50,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1LFLqH6I6X2A17ZGSjF77mCEqGnHuEva1/view?usp=drive_link",
+            "type": "link"
+        }
+    ]
+
+}

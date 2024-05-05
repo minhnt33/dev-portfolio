@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dev-portfolio/static/css/main.343e4932.css",
+    "main.js": "/dev-portfolio/static/js/main.b2856f73.js",
+    "static/js/693.9531b653.chunk.js": "/dev-portfolio/static/js/693.9531b653.chunk.js",
+    "static/css/821.a549bd64.chunk.css": "/dev-portfolio/static/css/821.a549bd64.chunk.css",
+    "static/js/821.3b8334db.chunk.js": "/dev-portfolio/static/js/821.3b8334db.chunk.js",
+    "static/css/795.a3ab1969.chunk.css": "/dev-portfolio/static/css/795.a3ab1969.chunk.css",
+    "static/js/795.3cc7cd00.chunk.js": "/dev-portfolio/static/js/795.3cc7cd00.chunk.js",
+    "static/js/655.36d3106a.chunk.js": "/dev-portfolio/static/js/655.36d3106a.chunk.js",
+    "static/js/710.7886ae30.chunk.js": "/dev-portfolio/static/js/710.7886ae30.chunk.js",
+    "static/js/78.8035bf1c.chunk.js": "/dev-portfolio/static/js/78.8035bf1c.chunk.js",
+    "static/js/403.916d0b75.chunk.js": "/dev-portfolio/static/js/403.916d0b75.chunk.js",
+    "static/js/206.95107ac6.chunk.js": "/dev-portfolio/static/js/206.95107ac6.chunk.js",
+    "static/js/68.9bb6247f.chunk.js": "/dev-portfolio/static/js/68.9bb6247f.chunk.js",
+    "static/js/979.b775107c.chunk.js": "/dev-portfolio/static/js/979.b775107c.chunk.js",
+    "index.html": "/dev-portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.343e4932.css",
+    "static/js/main.b2856f73.js"
+  ]
+}

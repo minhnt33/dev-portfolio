@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "September 2013 - Jun 2018",
+            "cardTitle": "B.S, Software Engineer",
+            "cardSubtitle":"Hanoi University of Science and Technology, Hanoi",
+            "cardDetailedText": "Published paper \"Bone age assessment and sex determination using transfer learning\"",
+            "icon" : {
+                "src": "images/education/hust.png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/minhnt95"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/minhnt33"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:tuanminhnguyen3395@gmail.com"
+        }
+    ]
+}

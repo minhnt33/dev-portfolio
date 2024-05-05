@@ -1,0 +1,41 @@
+{
+    "experiences": [
+        {
+            "title": "CTO",
+            "subtitle": "GAPU Game Studio",
+            "workType": "Full-time",
+            "workDescription": [
+                "Build a code distribution system to distribute packages within the company based on UPM.",
+                "Build a gameplay system using Lua as a scripting language with XLua.",
+                "Build a framework written in TypeScript to develop gameplay of playable ads using Phaser.",
+                "Building Git flow helps develop and maintain multi- platform projects with fewer conflicts."
+            ],
+            "dateText": "03/2021 – Present"
+        },
+        {
+            "title": "Project Manager",
+            "subtitle": "Unimob Game Studio",
+            "workType": "Full-time",
+            "workDescription": [
+                "Set project goals according to OKRs, establish a tracking process, and evaluate effectiveness criteria for project members.",
+                "Operate and optimize resources in the project. Responsible for making final decisions to ensure products meet goals and follow the company's direction.",
+                "Build and administer self-hosted JIRA and Confluence systems to operate projects and store documents within the company.",
+                "Build and deploy Slack bot to query and export data analysis reports from BigQuery using Python."
+            ],
+            "dateText": "02/2020 – 10/2020"
+        },
+        {
+            "title": "Lead Programmer",
+            "subtitle": "Unimob Game Studio",
+            "workType": "Full-time",
+            "workDescription": [
+                "Designed and coded the development framework of studio that is modular and supported data-driven workflow.",
+                "Build a DevOps workflow in the organization. Using Jenkins to build an auto build server helps increase performance, reduce waiting time for building and testing bugs by 50%.",
+                "Debug and fix native crashes on Android and IOS. Provide solutions and optimize performance, crashes, and ANR of games on low-end devices with less than 1GB of RAM.",
+                "Perform code reviews within the programming team to ensure the quality and consistency of the code base are maintained.",
+                "Take on the role of Scrum Master in the Scrum Team of 10 people."
+            ],
+            "dateText": "06/2018 – 02/2020"
+        }
+    ]
+}
