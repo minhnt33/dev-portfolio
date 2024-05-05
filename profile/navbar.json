@@ -7,27 +7,27 @@
     "sections": [
         {
             "title": "Home",
-            "href": "dev-portfolio/"
+            "href": "/"
         },
         {
             "title": "About",
-            "href": "dev-portfolio/about"
+            "href": "/about"
         },
         {
             "title": "Skills",
-            "href": "dev-portfolio/skills"
+            "href": "/skills"
         },
         {
             "title": "Education",
-            "href": "dev-portfolio/education"
+            "href": "/education"
         },
         {
             "title": "Experience",
-            "href": "dev-portfolio/experience"
+            "href": "/experience"
         },
         {
             "title": "Projects",
-            "href": "dev-portfolio/projects"
+            "href": "/projects"
         },
         {
             "title": "Resume",
