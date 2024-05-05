@@ -5,39 +5,39 @@
             "title": "Languages & Databases",
             "items" : [
                 {
-                    "icon": "images/skills/c-sharp.png",
+                    "icon": "./images/skills/c-sharp.png",
                     "title": "C#"
                 },
                 {
-                    "icon": "images/skills/java.png",
+                    "icon": "./images/skills/java.png",
                     "title": "Java"
                 },
                                 {
-                    "icon": "images/skills/python.png",
+                    "icon": "./images/skills/python.png",
                     "title": "Python"
                 },
                 {
-                    "icon": "images/skills/js.png",
+                    "icon": "./images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/typescript.png",
+                    "icon": "./images/skills/typescript.png",
                     "title": "TypeScript"
                 },
                 {
-                    "icon": "images/skills/lua.png",
+                    "icon": "./images/skills/lua.png",
                     "title": "Lua"
                 },
                 {
-                    "icon": "images/skills/c.png",
+                    "icon": "./images/skills/c.png",
                     "title": "C"
                 },
                 {
-                    "icon": "images/skills/php.png",
+                    "icon": "./images/skills/php.png",
                     "title": "PHP"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
+                    "icon": "./images/skills/mysql.png",
                     "title": "MySQL"
                 }
         ]},
@@ -45,23 +45,23 @@
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/unity3d.png",
+                    "icon": "./images/skills/unity3d.png",
                     "title": "Unity3D"
                 },
                 {
-                    "icon": "images/skills/android_new.png",
+                    "icon": "./images/skills/android_new.png",
                     "title": "Android"
                 },
                 {
-                    "icon": "images/skills/phaser.png",
+                    "icon": "./images/skills/phaser.png",
                     "title": "Phaser"
                 },
                 {
-                    "icon": "images/skills/libgdx.png",
+                    "icon": "./images/skills/libgdx.png",
                     "title": "Libgdx"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
+                    "icon": "./images/skills/nodejs.png",
                     "title": "Nodejs"
                 }
             ]
@@ -70,35 +70,35 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/git.png",
+                    "icon": "./images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/android-studio.png",
+                    "icon": "./images/skills/android-studio.png",
                     "title": "Android Studio"
                 },
                 {
-                    "icon": "images/skills/xcode.png",
+                    "icon": "./images/skills/xcode.png",
                     "title": "Xcode"
                 },
                 {
-                    "icon": "images/skills/jenkins.png",
+                    "icon": "./images/skills/jenkins.png",
                     "title": "Jenkins"
                 },
                 {
-                    "icon": "images/skills/firebase.png",
+                    "icon": "./images/skills/firebase.png",
                     "title": "Firebase"
                 },
                 {
-                    "icon": "images/skills/aws.png",
+                    "icon": "./images/skills/aws.png",
                     "title": "AWS"
                 },
                 {
-                    "icon": "images/skills/google-cloud-platform.png",
+                    "icon": "./images/skills/google-cloud-platform.png",
                     "title": "GCP"
                 },
                 {
-                    "icon": "images/skills/docker.png",
+                    "icon": "./images/skills/docker.png",
                     "title": "Docker"
                 }
             ]

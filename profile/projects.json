@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/legend-guardians.jpg",
+            "image" : "./images/projects/legend-guardians.jpg",
             "title": "Legend Guardians",
             "bodyText": "*Gameplay Programmer*\n\n**Legend Guardians** is a action RPG mixed with team based battle.\n\n- Customize pathfinding algorithm based on A Star to support over 50 independent agents finding paths on low-end mobile devices at the same time using multithreading, hierarchical pathfinding.\n- Design and code a data-driven skill system. Each skill is composed from independent actions that are executed in sequence or parallel.\n- Design and code a data-driven character controller and AI system based on State Machine. Behavior is defined by data written by game designers.\n- Design and code status alignment system that was easy to expand and manage interactions between multiple status at the same time.",
             "links": [
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "image" : "images/projects/stickman-master.jpg",
+            "image" : "./images/projects/stickman-master.jpg",
             "title": "Stickman Master",
             "bodyText": "*Lead Programmer*\n\n**Stickman Master** is a hack and slash RPG with a deep equipment system inspired by Diablo and Path of Exile. Each character can use many weapons of that class. Each weapon has its own active and passive skill tree.\n\n- Design and build a system of core features such as: combat, quest, equipment, pet, localization, database, cloud save Load, online arena.\n- Build an AI system in the game using Behavior Tree. With each different type of weapon, AI can decide which attack is optimal and which position is favorable to strike based on the current state of the environment and character.",
             "links": [
@@ -50,7 +50,7 @@
             ]
         },
         {
-            "image" : "images/projects/castle-defender.jpg",
+            "image" : "./images/projects/castle-defender.jpg",
             "title": "Castle Defender",
             "bodyText": "*Project Manager*\n\n**Castle Defender** is a tower defense mixed with RPG game. Reuse and refine data-driven system built from previous games to quickly create many heroes with interesting interaction between abilities.\n\n- Set project goals according to OKRs, establish a tracking process, and evaluate effectiveness criteria for project members.\n\n- Operate and optimize resources in the project. Responsible for making final decisions to ensure products meet goals and follow the company's direction.\n\n- Build and administer self-hosted JIRA and Confluence systems to operate projects and store documents within the company.\n\n- Build and deploy Slack bot to query and export data analysis reports from BigQuery using Python.",
             "links": [
@@ -74,7 +74,7 @@
             ]
         },
         {
-            "image" : "images/projects/aethr.jpg",
+            "image" : "./images/projects/aethr.jpg",
             "title": "AETHR Idle RPG",
             "bodyText": "*One Man Army*\n\n**AETHR** is a game world filled with fascinating characters from five different races: Human, Dragon, Alien, Gods and Machine. The universe has a player-owned economy where players can truly own, buy, sell, and trade resources they earn in the game through skilled-gameplay.\n- Design and code full game using my own framework from previous game.\n- Design and build UI/UX.\n- Design and code client/server with optimized bandwidth and performance.",
             "links": [
@@ -94,7 +94,7 @@
             ]
         },
         {
-            "image" : "images/projects/smashing-heroes.jpg",
+            "image" : "./images/projects/smashing-heroes.jpg",
             "title": "Smashing Heroes",
             "bodyText": "*One Man Army*\n\n**Smashing Heroes** is an exciting and innovative brick breaking RPG defense-action game, packed full of challenge, action, and fun.\n\n- Design everything from gameplay, UI/UX, heroes, maps and monsters.\n- Build the actual game from my own design.",
             "links": [
@@ -114,7 +114,7 @@
             ]
         },
         {
-            "image" : "images/projects/playable-ads.png",
+            "image" : "./images/projects/playable-ads.png",
             "title": "Playable Ads",
             "bodyText": "*One Man Army*\n\n- Develop a playable ads framework based on Phaser 3 using TypeScript.\n- Support all popular ads network like Applovin, Unity, IronSource, Facebook, Google Admob, Mintegral,..",
             "links": [
@@ -129,7 +129,7 @@
             ]
         },
         {
-            "image" : "images/projects/girl-power.jpg",
+            "image" : "./images/projects/girl-power.jpg",
             "title": "Girl Power",
             "bodyText": "*Lead Programmer*\n\n**Girl Power** is a very funny and creative game, you will experience the puzzles with extremely smart and challenging skills.\n\n- Design and code a gameplay system using Lua as a scripting language with XLua.\n- The lua script can be ran on playable ads framework without modification.",
             "links": [
@@ -144,7 +144,7 @@
             ]
         },
         {
-            "image" : "images/projects/dropboy.png",
+            "image" : "./images/projects/dropboy.png",
             "title": "Drop Boy",
             "bodyText": "*Lead Programmer*\n\nA puzzle game with very interesting mechanics.\n\n- Design and code level editor that help game designer create large amount of levels with ease. **Django**.\n - Design and code all gameplay mecahnics that support undo and redo in-game actions.",
             "tags" : [
@@ -154,7 +154,7 @@
             ]
         },
         {
-            "image" : "images/projects/heroes-tactic.png",
+            "image" : "./images/projects/heroes-tactic.png",
             "title": "Hero Tactics",
             "bodyText": "*One Man Army*\n\nHero Tactics is a technical learning demo for multi-level view cone and enviroment awareness character controller like in game Shadow Tactics: Blade of Shogun.\n\n- Implement multi-level view cone by using Shadow Mask technique. The view cone behaviour can change based on the height of obstacle and ground level.\n - Character controller with state machine and complex Animator layers and Blend Tree.",
             "links": [
